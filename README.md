@@ -26,3 +26,5 @@ On aura trois clients (sous la forme, par exemple, de 3 pages web) pour accéder
 * le premier servira à réaliser l’enregistrement initial d’un « colis » ;
 * le second permettra de changer les coordonnées  du colis à chaque étape ;
 * le dernier permettra au client de suivre la progression du colis.
+
+![illustration](./illustration.svg)
